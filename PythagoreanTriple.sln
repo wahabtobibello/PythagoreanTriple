@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PythagoreanTriple", "PythagoreanTriple\PythagoreanTriple.vbproj", "{255E3CCF-0AEF-4C58-AB46-7F042B509E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255E3CCF-0AEF-4C58-AB46-7F042B509E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255E3CCF-0AEF-4C58-AB46-7F042B509E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255E3CCF-0AEF-4C58-AB46-7F042B509E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255E3CCF-0AEF-4C58-AB46-7F042B509E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC02D2A8-6287-41A2-9331-817738C02CE8}
+	EndGlobalSection
+EndGlobal
