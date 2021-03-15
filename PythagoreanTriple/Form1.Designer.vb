@@ -155,7 +155,6 @@ Partial Class Form1
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.mTbx)
         Me.Controls.Add(Me.Label1)
-        Me.Enabled = False
         Me.Name = "Form1"
         Me.Text = "Pythagorean Triple"
         Me.ResumeLayout(False)
